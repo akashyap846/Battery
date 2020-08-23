@@ -1,6 +1,6 @@
 # Battery
 
-it showe battery status
+it shows battery status
 
 ![off](https://user-images.githubusercontent.com/70055851/90985486-e69c9580-e599-11ea-879b-5d7f3c573857.jpg)
 
